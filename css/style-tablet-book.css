@@ -1,8 +1,8 @@
-@media screen and (min-width: 721px) and (max-width: 1280px) {
+@media screen and (min-width: 721px) and (max-width: 1080px) {
     .logo-primary {
         width: 69px;
         height: 71px;
-        left: 52px;
+        left: 92px;
         top: 20px;
         background: url(dindin-logo-white.png);
     } 
@@ -10,6 +10,9 @@
         font-size: 18px;
         left: 728px;
     }
+
+    /* BANNER */
+    
     .banner-left h1 {
         width: 378px;
         height: 176px;
@@ -39,12 +42,11 @@
         border-radius: 62px;
         font-size: 19px;
     }
-    .btn-primary:hover {
-        background-color: #FF4081;
-        color: #FFFFFF;
-    }
+
+    /* CURSOS */
+
     .container-courses {
-        width: 1080px;
+        width: 1280px;
         height: 630px;
         top: 759px;
     }
@@ -74,73 +76,61 @@
         top: 448px;
         font-size: 14px;
     }
-    .btn-logo-investment:hover {
-        background-color: #FFFFFF;
-        color: #FF4081;
-        border: 2px solid #FF4081;    
-    }
     .logo-save {
         width: 138px;
         height: 170px;
-        left: 481px;
+        left: 511px;
     }
     .title-logo-save {
         width: 197px;
         height: 19px;
-        left: 459px;
+        left: 480px;
         top: 322px;
         font-size: 19px;
     }
     .paragraph-logo-save {
         width: 193px;
         height: 50px;
-        left: 461px;
+        left: 483px;
         top: 364px;
         font-size: 11px;
     }
     .btn-logo-save {
         width: 133px;
         height: 41px;
-        left: 492px;
+        left: 515px;
         top: 448px;
         font-size: 14px;
-    }
-    .btn-logo-save:hover {
-        background-color: #FFFFFF;
-        color: #FF4081;
-        border: 2px solid #FF4081;    
     }
     .logo-independence {
         width: 117px;
         height: 170px;
-        left: 795px;
+        left: 845px;
     }
     .title-logo-independence {
         width: 218px;
         height: 19px;
-        left: 747px;
+        left: 797px;
         top: 322px;
         font-size: 19px;
     }
     .paragraph-logo-independence {
         width: 193px;
         height: 50px;
-        left: 758px;
+        left: 808px;
         top: 364px;
         font-size: 11px;
     }
     .btn-logo-independence {
         width: 133px;
         height: 41px;
-        left: 788px;
+        left: 840px;
         top: 448px;
         font-size: 14px;
     }
-    .btn-logo-independence:hover {
-        background-color: #FFFFFF;
-        color: #FF4081;
-        border: 2px solid #FF4081;    
-    }
+
+    /* COMMENTS */
+
     .container-comments {
         width: 378px;
         height: 40px;
@@ -229,6 +219,9 @@
         top: 1840px;
         font-size: 12px;
     }
+
+    /* FINAL SECTION */
+
     .final-section {
         width: 1440px;
         height: 730px;
@@ -314,6 +307,9 @@
         top: 351px;
         font-size: 12px;
     }
+
+    /* RODAPÉ */
+
     .footer {
         top: 2680px;
     }
@@ -321,7 +317,7 @@
         width: 270px;
         height: 90px;
         top: 53px;
-        left: 52px;
+        left: 92px;
     }
     .link-footer {
         width: 71px;
@@ -352,6 +348,9 @@
         background: #FFFFFF;
         color: #419488;
     }
+
+    /* CONTATO */
+
     .banner-left-contact h1 {
         left: 136px;
         top: 222px;
@@ -373,6 +372,9 @@
         top: 199px;
         background: url(img/ilustra-contato.png);
     }
+
+    /* CURSOS */
+
     .course-title {
         width: 193px;
         height: 59px;
@@ -480,9 +482,15 @@
         top: 1573px;
         font-size: 14px;
     }
+
+    /* RODAPÉ CURSOS */
+
     .footer-course {
         top: 1922px;
     }
+
+    /* BLOG */
+
     .banner-left-blog {
         width: 372px;
         height: 98px;
@@ -574,7 +582,6 @@
         height: 209px;
         left: 599px;
         top: 550px;
-        background: #C4C4C4;
     }
     .text-blog-4 h1 {
         width: 355px;
@@ -630,9 +637,15 @@
         top: 1272px;
         font-size: 12px;
     }
+
+    /* RODAPÉ BLOG */
+
     .footer-blog {
         top: 2172px;
     }
+
+    /* CURSO INTERNO */
+
     .banner-left-investment h1 {
         width: 412px;
         height: 106px;
@@ -765,6 +778,9 @@
         left: 601px;
         top: 197px;
     }
+
+    /* POSTS */
+    
     .header-post h1 {
         width: 658px;
         height: 36px;
